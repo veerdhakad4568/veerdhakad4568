@@ -5,7 +5,7 @@
 
 - 🔭 I just launched my youtube channel: [in-Techie!][youtube]!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 ### Connect with me:
 
 [<img align="left" alt="veerdhakad.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
