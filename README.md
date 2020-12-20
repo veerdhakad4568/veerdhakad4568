@@ -17,16 +17,13 @@
 <br />
 
 ### Languages and Tools:
-
-### Languages and Tools:
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="64" height="64" class="d-block rounded-1 mr-3 flex-shrink-0" alt="java"> />][youtube]
+[<img align="left" alt="JAVA" width="26px" src="src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][youtube]
 [<img align="left" alt="Spring Boot" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />][youtube]
 [<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][youtube]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][youtube]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][youtube]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][youtube]
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
-
 
 <br />
 <br />
@@ -71,7 +68,7 @@
 </details>
 
 [website]: https://veerdhakad.com
-[twitter]: https://twitter.com/veerdhakad
+[twitter]: https://twitter.com/veer04568
 [youtube]: https://www.youtube.com/channel/UCviajVjvvAgfDTODjZ1Yy6g/videos?view_as=subscriber
 [instagram]: https://instagram.com/_veerdhakad
 [linkedin]: https://linkedin.com/in/
