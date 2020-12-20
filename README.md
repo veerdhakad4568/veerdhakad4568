@@ -4,7 +4,7 @@
 ## I'm a  Software Developer!!
 
 - 🔭 I just launched my youtube channel: [in-Techie!][youtube]!
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Contribute more to Open Source projects
 ### Connect with me:
 
