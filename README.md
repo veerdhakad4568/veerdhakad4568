@@ -29,14 +29,6 @@
 
 ---
 
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
--->
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCviajVjvvAgfDTODjZ1Yy6g/videos?view_as=subscriber)
 
 ---
 
